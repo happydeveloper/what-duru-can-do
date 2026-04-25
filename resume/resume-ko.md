@@ -22,7 +22,7 @@ GitHub: https://github.com/happydeveloper
 
 ## Core Strengths
 
-- 글로벌 결제 시스템 구축 및 안정화: Paddle, PayPal, Apple IAP, Webhook, Retry Queue, Idempotency
+- 결제: Paddle(상), PayPal(상), Apple/Google IAP(중), PaymentWall(중)
 - 데이터 파이프라인 및 BI 환경 구축: AWS Glue, Athena, S3, Lambda, Redash, QuickSight
 - 웹/앱 서비스 개발 및 운영: WordPress, WooCommerce, Kajabi, React Native, iOS/Android
 - 인프라 운영 및 비용 최적화: AWS, Cloudflare, Route 53, WAF, EC2/ECS 검토
