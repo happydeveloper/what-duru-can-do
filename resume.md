@@ -25,30 +25,12 @@ Email: enfn2001@gmail.com | Phone: 010-3058-0589
 | 톡투미인코리안 (Talk To Me In Korean) <br> https://talktomeinkorean.com | 엔지니어링 팀장 | 2020.01 - 2026.03 (예정) | 170만 회원 글로벌 한국어 교육 플랫폼 기술 리딩 및 초기 팀 빌딩. 워드프레스/우커머스 커스텀 개발과 SaaS 연동 (`auth`, `brand`, `store`), Paddle + Apple IAP 구독 결제 구현, 코호트 판매 운영, `TTMIK Stories`/`Seyo`/`TTMIK Audio` 앱 인프라 구축. AWS QuickSight + Redash 데이터하우스와 Glue/Athena ETL, PayPal/Paddle/IAP 통합 매출 대시보드 구축. |
 | 국립중앙박물관 (National Museum of Korea) <br> https://www.museum.go.kr | 전시안내 시스템 총괄 (계약) | 2024 - 현재 | 전시 안내 앱 및 백엔드/DB 아키텍처 총괄 설계. 운영/유지보수 체계 수립 및 안정화. 대규모 관람객 트래픽 대응 성능 튜닝과 데이터 파이프라인 최적화 수행. |
 | 대한민국 국회 & 한컴AI 협력 <br> https://www.assembly.go.kr / https://www.hancom.com | AI DB 인프라 구축 | 2025.07 - 2025.09 | AI 서비스용 MySQL 3중화(Clustering) 및 Failover 구축. 민감 데이터 DB 암호화 솔루션 적용과 대용량 처리 튜닝 수행. 관련 정리: https://github.com/happydeveloper/redhat |
-| 코딩온 (Coding On) <br> https://codingon.co.kr | 초기 멤버 & 개발팀 셋팅 | 2018 - 2020 | 창업 초기 멤버로 LMS 아키텍처 설계, 핵심 기능 개발, 초기 개발팀 빌딩 주도. |
-<!--
-todo : 제거하고, 오픈튜토리얼스 활동을 공백에 대신 추가
- | 두루옵스 (Duru Ops) | 대표 & 기술 컨설턴트 | 2018 - 2020 | 삼성전자, 현대모비스, KT, 성균관대 등 대상 DB 설계, 장애 대응, 성능 최적화 컨설팅 수행. | -->
+| 코딩온 (Coding On) <br> https://codingon.co.kr | 초기 멤버 & 개발팀 셋팅 | 2018 - 2020 | 창업 초기 멤버로 LMS 아키텍처 설계, 핵심 기능 개발, 초기 개발팀 빌딩 주도 |
+| 루트임팩트 <br> https://rootimpact.org/ | 리드 개발자 | 2019 - 2020 | 스프링부트 기반 인증서버와 회계시스템 ERP 개발 |
+| 오픈튜토리얼스 <br> https://opentutorials.org/ | 창립멤버 | 2014 - 현재 | 웹 서비스 백엔드 유지보수, 코딩야학 프로젝트 PM, otu.ai 모바일 개발 총괄 , 비영리 단체 회계/세무 실무 담당 |
+| 패션그룹 형지 <br> https://www.hyungji.co.kr | 전산실 과장 | 2015 - 2018 | 20개 브랜드 사이트 통합 운영, ERP 연동, 외주 파트너 관리 및 운영 효율화. |
 | 패션그룹 형지 <br> https://www.hyungji.co.kr | 전산실 과장 | 2015 - 2018 | 20개 브랜드 사이트 통합 운영, ERP 연동, 외주 파트너 관리 및 운영 효율화. |
 | 정원엔시스 <br> https://www.zungwon.co.kr | R&D 연구원 | 2009 - 2014 (약 7년) | WinCE/Embedded 기반 병렬 네트워크 전송 모듈 개발, DB 암호화 모듈 개발, 내부 그룹웨어 및 회계 통제 시스템 개발. |
-
-### 2025 주요 프로젝트 및 성과
-- **Paddle 결제 플랫폼 구축 및 자동 복구 시스템 개발**
-  - 대규모 트래픽 환경에서 예외 케이스 방어 로직 설계
-  - 결제 실패 자동 재시도/복구 로직 구현으로 결제 성공률 향상
-  - Webhook 지연/네트워크 유실 상황을 고려해 멱등성(Idempotency) 설계와 Retry Queue 도입
-- **이벤트 운영 기술 지원**
-  - 연말 세일/프로모션 운영을 위한 할인 링크/쿠폰 자동 적용 기능 개발
-  - 일정 내 안정 배포로 마케팅/운영팀 이벤트 실행 리스크 축소
-- **매출 데이터 대시보드 자동화 (Redash)**
-  - 수기 집계 중심 매출 데이터를 자동 수집/시각화 체계로 전환
-  - 결제 채널별 매출 모니터링 및 의사결정 속도 개선
-- **대용량 메일 서버(Sendy) 튜닝 및 성능 개선**
-  - 마케팅 캠페인 발송 시 병목 구간 튜닝으로 처리 시간 3~5분 -> 약 10초로 단축(약 95% 개선)
-  - 발송 모니터링 업무를 1시간+ -> 5분 이내로 단축해 마케팅팀의 전략 업무 집중도 향상
-- **마케팅 성과 추적 체계(GTM/GA4) 구축**
-  - 코스 랜딩 페이지 구축 및 유저 행동(클릭/전환) 추적 환경 세팅
-  - A/B 테스트 기반의 성과 분석 체계 마련
 
 ## 초기 경력 (Early Career)
 - 미래에셋증권 협력사: HTS 모듈 개발(소켓 기반 실시간 처리)
@@ -57,11 +39,10 @@ todo : 제거하고, 오픈튜토리얼스 활동을 공백에 대신 추가
 
 ## Projects & Community
 
-### 오픈튜토리얼스 (OpenTutorials.org) | 초기 멤버 & 회계 담당
-- 기간: 2015 - 현재
-- 사이트: https://opentutorials.org
-- 개발: 웹 서비스 백엔드 유지보수, 코딩야학 프로젝트 PM, otu.ai 모바일 개발 총괄
-- 운영: 비영리 단체 회계/세무 실무 담당
+<!-- 최근 5년 동안 했던 프로젝트에 기술스팩과 해던 역활들을 잘 기술한다. -->
+<!-- 업무일지 보면서 작성 / 월간업무일지 보면서 작성-->
+
+
 
 ### 형태소 분석/언어 AI 프로젝트
 - 프로젝트: https://github.com/hyusap/deconstructor
@@ -76,8 +57,8 @@ todo : 제거하고, 오픈튜토리얼스 활동을 공백에 대신 추가
 - 학력: 수원대학교 회계학과 / 컴퓨터학과 복수전공
 <!-- todo 수준이 누락됨 -->
 - Skills:
-  - Languages: C#, Java, Python, Node.js, PHP
-  - Backend: Nust.js, Spring Boot, Restful 및 GraphQL API 설계 및 운영
+  - Languages: C#(상), Java, Python, PHP, JavaScirpt (TypeScript), Delphi(상), SQL(상)
+  - Backend: Nest.js, Spring Boot, Restful 및 GraphQL API 설계 및 운영
   - Data/Infra: ORACLE, Tibero, SQLServer, MySQL(HA), Docker
   <!-- todo 클라우드는 세부적으로 작성 -->
   - Cloud :  
@@ -102,10 +83,8 @@ todo : 제거하고, 오픈튜토리얼스 활동을 공백에 대신 추가
 - 생활코딩 강좌 기여(자바 등)
 - 기술서적 검토 참여(예제 중심 Python3)
 
-## 학력/기타
+## 학력
 - 수원대학교 컴퓨터학과 / 회계학과 복수전공
-- 교육: Spring/JSP-Servlet/Tibero 실무 교육 이수
-- 자격: MCT (Windows Server 2003 Hosting)
 
 ## 일하는 방식
 - 빠른 구현보다 운영 가능한 구조로 끝까지 완성합니다.
@@ -117,3 +96,14 @@ todo : 제거하고, 오픈튜토리얼스 활동을 공백에 대신 추가
 - 논리적이고 수평적인 업무 문화를 지향하며, 역할과 책임을 투명하게 정리합니다.
 - 서비스 전체 아키텍처를 조망하고, 중장기 기술 로드맵을 제시해 실행까지 연결합니다.
 
+
+## 업무 성격
+- [태니지먼트 업무 장단점 유형 분석](strengths-analysis.md)
+- 침착하고 감정 조절이 뛰어남
+- 관대하고 포용적인 태도
+- 다양한 성향의 사람들과 효과적으로 협업
+- 갈등 상황에서 이를 완화하고 해결하기 위해 노력
+- 타인과의 관계를 중시하고 팀 분위기 조성에 기여
+- 타인의 강점을 파악하고 인정하는 능력
+- 높은 인내심으로 목표 달성까지 끝까지 추진
+- MBTI : INTJ
