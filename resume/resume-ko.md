@@ -1,4 +1,4 @@
-# [KOR] 이력서
+# 이력서
 
 ## 강두루 (Duru Kang)
 
@@ -8,7 +8,7 @@ GitHub: https://github.com/happydeveloper
 
 ---
 
-## Professional Summary
+## 커리어 요약
 
 **비즈니스의 언어와 기술의 언어를 함께 이해하고, 실제 운영 가능한 시스템으로 문제를 해결하는 20년 차 엔지니어입니다.**
 
@@ -20,8 +20,8 @@ GitHub: https://github.com/happydeveloper
 
 ---
 
-## Core Strengths
-
+## 핵심 역량
+<!-- todo: 아래 결제와 같이 제목 단순화, 상중하로 기술 표시 -->
 - 결제: Paddle(상), PayPal(상), Apple/Google IAP(중), PaymentWall(중)
 - 데이터 파이프라인 및 BI 환경 구축: AWS Glue, Athena, S3, Lambda, Redash, QuickSight
 - 웹/앱 서비스 개발 및 운영: WordPress, WooCommerce, Kajabi, React Native, iOS/Android
@@ -32,7 +32,9 @@ GitHub: https://github.com/happydeveloper
 
 ---
 
-## Work Experience
+<!-- 과거 경력 일수록 간결하게 정리 -->
+
+## 경력
 
 ### Talk To Me In Korean — 엔지니어링 팀장 / Tech Lead
 
@@ -143,7 +145,7 @@ https://www.zungwon.co.kr
 
 ---
 
-## Early Career
+## 초기 경력
 
 - 미래에셋증권 협력사: HTS 모듈 개발, 소켓 기반 실시간 처리
 - 삼보/주현컴퓨터: 임베디드 기기 트러블슈팅
@@ -151,8 +153,9 @@ https://www.zungwon.co.kr
 
 ---
 
-## Key Projects
+## 주요 프로젝트
 
+<!-- 최근 프로젝트와 병합 -->
 상세 프로젝트 문서는 `projects/` 폴더에 분리했습니다.
 
 - [Paddle 글로벌 결제 시스템 구축 및 안정화](../projects/paddle-payment-system.md)
@@ -164,7 +167,8 @@ https://www.zungwon.co.kr
 
 ---
 
-## Patents / Intellectual Property
+<!-- todo 제거  -->
+## 특허 / 지적 재산
 
 ### 엣지 AI 기반 복합 비주얼 코드를 이용한 디지털 콘텐츠 보정 및 연결 시스템
 
@@ -174,53 +178,52 @@ https://www.zungwon.co.kr
 
 ---
 
-## Education
+## 학력
 
+<!-- todo 제일 위로 이동 -->
 수원대학교  
 - 컴퓨터학과 / 회계학과 복수전공
 
 ---
 
-## Skills
+<!-- todo : 위의 기술 항목과 중복 됨. 통합 필요 -->
+## 기술
 
-### Languages
+### 언어
 
 C#, Java, Python, PHP, JavaScript, TypeScript, Delphi, SQL
 
-### Backend
+### 백엔드
 
 NestJS, Spring Boot, RESTful API, GraphQL API, WordPress/WooCommerce Custom Development, Kajabi Integration
 
-### Data / Database
+### 데이터 / 데이터베이스
 
 MySQL, MariaDB Galera Cluster, Oracle, Tibero, SQL Server, Athena, Redash, AWS Glue, ETL, Data Warehouse
 
-### Cloud / Infrastructure
+### 클라우드 / 인프라
 
 AWS: EC2, ECS, S3, RDS, CloudFront, WAF, Lambda, API Gateway, Cognito, Route 53, EventBridge  
 Google Cloud Platform: App Engine, Cloud SQL for MySQL 8.0, Compute Engine  
 Azure: 기본 사용 경험  
 Docker, Linux, Shell Script, Cloudflare, WAF, ModSecurity
 
-### Mobile
+### 모바일
 
 iOS, Android, React Native, WebView Hybrid App, Apple IAP, RevenueCat
 
-### Payment
+### 결제
 
 Paddle Payment, PayPal, Apple In-App Purchase, RevenueCat, PaymentWall, 2Checkout
 
-### AI / Edge / Embedded
+### AI / 엣지 / 임베디드
 
 Edge AI 아이디어 설계, Embedded/WinCE 개발 경험, RFID/WiFi 기반 실험 프로젝트, AI DB 인프라 구축 및 고가용성 DB 구성
 
 ---
 
-## Working Style
+# 성격과 태도
+1. 온건한 성격으로 동료들과 원만하게 지냅니다.
+2. 개성있는 동료들과 잘 지냅니다. 
+3. 갈등의 중재를 잘 합니다. 
 
-- 빠른 구현보다 운영 가능한 구조로 끝까지 완성합니다.
-- 데이터 정합성과 사용자 신뢰를 우선으로 의사결정합니다.
-- 장애와 예외 케이스를 실제 운영 관점에서 먼저 생각합니다.
-- 배운 내용을 문서, 코드, 강의 형태로 공유해 팀 생산성을 높입니다.
-- 기술, 운영, 고객지원, 마케팅, 재무 사이의 언어를 연결해 문제를 해결합니다.
-- 서비스 전체 아키텍처를 조망하고, 중장기 기술 로드맵을 실행까지 연결합니다.
