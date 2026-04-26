@@ -19,7 +19,7 @@ GitHub: [https://github.com/happydeveloper](https://github.com/happydeveloper)
 
 ---
 
-## Core Strengths
+## 핵심 역량
 
 * 글로벌 결제 시스템 구축 및 안정화: Paddle, PayPal, Apple IAP, Webhook, Retry Queue, Idempotency
 * 데이터 파이프라인 및 BI 환경 구축: AWS Glue, Athena, S3, Lambda, Redash, QuickSight
@@ -35,10 +35,10 @@ GitHub: [https://github.com/happydeveloper](https://github.com/happydeveloper)
 
 ### Talk To Me In Korean — 엔지니어링 팀장 / Tech Lead
 
-**2020.01 - 2026.03**
+**2020.01 - 2026.05**
 [https://talktomeinkorean.com](https://talktomeinkorean.com)
 
-170만 명 규모의 글로벌 한국어 교육 플랫폼에서 웹, 앱, 결제, 데이터, 인프라, 운영 자동화 전반을 리딩했습니다. 초기 개발팀 빌딩부터 글로벌 구독 결제 시스템 전환, 데이터 파이프라인 구축, 레거시 플랫폼 정리, 서비스 안정화까지 기술 실행을 담당했습니다.
+170만 명 규모의 글로벌 한국어 교육 플랫폼에서 웹, 앱, 결제, 데이터, 인프라, 운영 자동화 전반을 리딩했습니다. 개발팀 팀 빌딩부터 글로벌 구독 결제 시스템 전환, 데이터 파이프라인 구축, 레거시 플랫폼 정리, 서비스 안정화까지 기술관련된 업무 실행을 담당했습니다.
 
 #### 주요 역할
 
@@ -51,11 +51,16 @@ GitHub: [https://github.com/happydeveloper](https://github.com/happydeveloper)
 
 #### 핵심 성과
 
-* Paddle 결제 전환 및 자동 복구 시스템 구축으로 약 8,000~9,000건 이상의 트랜잭션을 안정적으로 처리
-* Webhook 지연, 네트워크 장애, 외부 SaaS 동기화 실패에 대비한 Retry Queue와 멱등성 설계 적용
+* Paddle 결제 전환 및 자동 복구 시스템 구축으로 월간 수만건 이상의 트랜잭션을 안정적으로 처리
+* Paddle 구축과 Paypal Migration, 패들 영국 본사와 협업
 * PayPal, Paddle, Apple IAP 매출 데이터를 통합한 데이터 파이프라인 및 Redash 대시보드 구축
 * Sendy 대용량 메일 발송 병목을 개선해 작업 처리 시간을 3~5분대에서 약 10초 내외로 단축
 * Cloudflare, AWS, WordPress, Kajabi 등 복합 환경에서 레거시 운영 비용과 보안 리스크를 분석하고 정리 계획 수립
+* 기본 워드프레스 우커머스 북스토어를 쇼피파이로 데이터 마이그레이션하고 PG 사 연결에 대한 기술적인 작업 함 https://store.talktomeinkorean.com/
+* 한국어 읽기 전용 앱 (스토리즈) 기술 기획과 초기 개발 PM(외국인 개발자들 협업)
+* 대규모 트래픽을 대비하여 핵심
+* 서버비용을 분석하고 FinOps 를 통해 서버비용 최적화 했습니다. 대략 50% 이상함
+* 한국어발음 책과 연관된 QR Code 
 
 ---
 

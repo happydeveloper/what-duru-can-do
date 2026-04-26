@@ -5,6 +5,7 @@
 **Senior Software Engineer / Tech Lead**  
 Email: enfn2001@gmail.com | Phone: 010-3058-0589  
 GitHub: https://github.com/happydeveloper
+HuggingFace: https://huggingface.co/beakerduru
 
 ---
 
