@@ -8,4 +8,3 @@ GitHub: https://github.com/happydeveloper
 
 - 1년간 한 일
 - 5년간 한 일 
-- 
