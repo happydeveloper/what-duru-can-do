@@ -9,6 +9,48 @@ HuggingFace: https://huggingface.co/beakerduru
 
 ---
 
+## About Me (KR/EN)
+
+### 한국어
+
+20년 이상 소프트웨어 엔지니어링 전 영역(로우레벨 시스템, 엔터프라이즈 미들웨어, 웹 플랫폼 엔지니어링, 인프라, 앱, 결제, 데이터 파이프라인, 기술 리더십)을 경험한 엔지니어입니다.
+
+커리어 초반에는 임베디드 시스템과 소켓 프로그래밍으로 시작해, 암호화 통신 모듈, 병렬 네트워크 데이터 전송, 실시간 PLC 연동 등 하드웨어와 소프트웨어 경계의 시스템을 개발했습니다. 정원엔시스 R&D 엔지니어(7년)로 일하며 JEUS WAS, Apache, TP Monitor, Oracle/Tibero 내부 구조, Unix/Linux 엔터프라이즈 서버, 멀티스레드 서버 아키텍처에 대한 깊은 실무 경험을 쌓았고, HP Server Partner로서 엔터프라이즈급 하드웨어 기반 구축·운영도 수행했습니다.
+
+이후 형지 IT 관리 역할에서는 20개 브랜드 웹사이트 운영, ERP 통합, 외부 개발 파트너 관리를 맡으며 엔지니어링과 비즈니스 운영 사이를 연결했습니다.
+
+또한 두 개의 플랫폼을 공동 창업했습니다. 2014년부터 운영 중인 오픈소스 학습 커뮤니티 opentutorials.org와, LMS를 처음부터 구축하며 엔지니어링 팀을 리드한 실무형 코딩 교육 플랫폼 Coding On(codingon.co.kr)입니다.
+
+2020년부터는 170만 사용자 규모 글로벌 한국어 교육 플랫폼 Talk To Me In Korean에서 엔지니어링 팀장으로 웹, 앱, 결제, 데이터 파이프라인, 인프라를 엔드투엔드로 리딩했습니다. AWS FinOps로 서버 비용 50%+ 절감, 자동 복구 기능을 포함한 Paddle 결제 연동 구축, 이메일 처리 병목(3~5분)을 10초 이내로 단축, WordPress에서 Shopify로의 마이그레이션 리딩 등의 성과를 만들었습니다.
+
+계약 프로젝트로는 국립중앙박물관 전시 안내 시스템을 설계했고, 한컴AI 협업으로 국회도서관 대상 MySQL 3중화 클러스터와 자동 Failover 인프라를 구축했습니다.
+
+저는 증상만 임시로 봉합하기보다 원인을 깊게 파고드는 문제 해결자입니다. 기술 의사결정이 사용자 경험, 운영 부담, 비용, 비즈니스 성과에 미치는 영향을 함께 고려하며, 이를 실행 가능한 해법으로 연결합니다. 문서화, 인수인계, 로깅, 운영 기준까지 책임지고 마무리하며, 새로운 기술을 빠르게 익히고 비개발자도 이해할 수 있게 설명합니다. 압박 상황에서도 침착하고 협업적으로 일합니다.
+
+한 문장으로 정리하면, 저는 복잡한 문제를 끝까지 해결하고 기술·운영·비즈니스를 실행 가능한 결과로 연결하는 책임감 있는 실전형 엔지니어입니다.
+
+### English
+
+Software engineer with 20+ years of experience spanning low-level systems programming, enterprise middleware, web platform engineering, infrastructure, and technical leadership.
+
+My career began with embedded systems and socket programming — building encrypted communication modules, parallel network data transmission, and real-time PLC integrations at the hardware/software boundary. During 7 years at Zungwon as an R&D Engineer, I developed deep expertise in system software: JEUS WAS, Apache, TP Monitor, Oracle/Tibero internals, Unix/Linux enterprise servers, and multi-threaded server architecture. I also served as an HP Server Partner, deploying and operating solutions on enterprise-class hardware.
+
+After moving into IT management at Hyungji Fashion Group, I oversaw 20 brand websites, integrated ERP systems, and managed external development partners — bridging the gap between engineering and business operations.
+
+I co-founded two platforms: opentutorials.org, one of Korea's most recognized open-source learning communities (2014-present), and Coding On (codingon.co.kr), a practical coding education platform where I led the engineering team and built the LMS from scratch.
+
+Since 2020, I have served as Engineering Team Lead at Talk To Me In Korean — a global Korean language education platform with 1.7 million users — owning end-to-end engineering across web, app, payment, data pipelines, and infrastructure. Key achievements include cutting server costs by 50%+ via AWS FinOps, building a Paddle payment integration with automatic recovery, resolving email delivery bottlenecks from 3-5 minutes to under 10 seconds, and leading migration from WordPress to Shopify.
+
+On the contract side, I designed the exhibition guidance system for the National Museum of Korea and built MySQL triple-redundancy clustering with automatic failover for the National Assembly Library in collaboration with HancomAI.
+
+I am a hands-on problem solver who digs into root causes rather than patching symptoms. I always consider how technical decisions impact user experience, operational burden, cost, and business outcomes — connecting those layers into solutions that are realistic and executable.
+
+I take full ownership through to completion: documentation, handover, logging, and operational standards. I learn new technologies fast, explain technical content clearly to non-developers, and remain calm and collaborative under pressure.
+
+In one sentence: I solve complex problems to completion, connect technology, operations, and business into actionable outcomes, and see everything through with a strong sense of responsibility.
+
+---
+
 ## 커리어 요약
 
 **비즈니스의 언어와 기술의 언어를 함께 이해하고, 실제 운영 가능한 시스템으로 문제를 해결하는 20년 차 엔지니어입니다.**
